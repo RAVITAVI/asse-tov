@@ -65,6 +65,8 @@ const SCHOOLS_DATA = [
     { schoolName: "נתיבות דרור", gender: "Male" },
     { schoolName: "ישיבת בנ\"ע - חריש", gender: "Male" },
     { schoolName: "ישיבה תיכונית פרדס חנה כרכור", gender: "Male" }
+    { schoolName: "ניהול בנים", gender: "Male" }
+    { schoolName: "ניהול בנות", gender: "Female" }
 ];
 
 function cleanStringForComparison(str) {
